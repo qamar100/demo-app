@@ -150,9 +150,7 @@ export function Hero() {
                 </div>
                 </div>
 
-            <div className="pt-[50px]">
-                    <Image src={pic10} alt=""/>
-           </div>
+           
         </div>
         
     );
